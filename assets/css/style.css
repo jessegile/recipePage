@@ -29,11 +29,13 @@ ol li::marker {
 
 li {
     font-family: 'Outfit', sans-serif;
-    padding: 5px;
+    padding-left: 10px;
+    padding-bottom: 10px;
 }
 
 li::marker {
     color: hsl(332, 51%, 32%);
+    font-size: 0.8rem;
 }
 
 .card {
@@ -59,6 +61,7 @@ img {
 .pink h2 {
     font-family: 'Outfit', sans-serif;
     font-size: 20px;
+    padding-left: 15px;
 }
 
 .nutrition-table {
