@@ -1,5 +1,5 @@
 body {
-    margin: 0;
+    /*position: relative;*/
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -10,7 +10,7 @@ body {
     font-family: 'Young Serif', sans-serif;
     font-size: 16px;
     font-weight: 400;
-    margin-top: 50px;
+    margin: 50px 0 0 0;
 }
 
 p {
