@@ -56,8 +56,9 @@ img {
     padding: 20px;
 }
 
-.pink h3 {
+.pink h2 {
     font-family: 'Outfit', sans-serif;
+    font-size: 20px;
 }
 
 .nutrition-table {
